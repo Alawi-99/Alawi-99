@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hi , Im Ali
+I'm a computer science student currently learning Python and building programming projects.
+## Skills
+- Python
+- Jupyter Notebooks
+- Git & GitHub
+
+## Interests 
+- Software development
+- Data anlysis
+- Creating useful tools and scripts
+
+## University Work
+- Weekly programming notebooks (Python fundamentals)
+- Logbook reflections and notes
+- Final python project (command line program, 100+ lines)
 
 <!--
 **Alawi-99/Alawi-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
