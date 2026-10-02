@@ -1,4 +1,4 @@
-## Hi , Im Ali
+## Hi , my name is Ali
 I'm a computer science student currently learning Python and building programming projects.
 ## Skills
 - Python
