@@ -5,6 +5,9 @@ I'm a computer science student currently learning Python and building programmin
 - Jupyter Notebooks
 - Git & GitHub
 
+## Tutor
+- Muller DJ
+
 ## Interests 
 - Software development
 - Data anlysis
