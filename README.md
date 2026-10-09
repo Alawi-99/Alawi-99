@@ -6,7 +6,7 @@ I'm a computer science student currently learning Python and building programmin
 - Git & GitHub
 
 ## Tutor
-- Muller DJ
+- Duncan Muller 
 
 ## Interests 
 - Software development
