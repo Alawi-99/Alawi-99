@@ -1,5 +1,14 @@
-## Hi , my name is Ali
+## Hi , my name is Ali, I am 22 years old currently.
 I'm a computer science student currently learning Python and building programming projects.
+
+I enjoy sports such as football and boxing in which i participate in weekly. I also go to the gym and love training.
+I also enjoy playing games such as Fifa, Elden Ring, Dead by daylight, GTA and Call Of Duty.
+
+My favourite anime is One piece and i love crime , thriller, horror as well as adventure, mystery and comedy.
+I love music. my favourite music artist is The Weekend, however I also love arabi music, specifically iraqi music.
+
+I have mixed heritage as im pakistani and iraqi. I love arab culture and food, my grandad told me about our lineage last year.
+
 ## Skills
 - Python
 - Jupyter Notebooks
